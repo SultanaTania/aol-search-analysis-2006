@@ -37,3 +37,5 @@ After the data cleansing, we saved all cleaned tables as CSV files. This allowed
 4. What are the most searched queries (only world cup related, excluding worldcup)?
 5. What are the most clicked search results for the World Cup and how frequently are they clicked?
 6. Who are the most searched players, and how many goals did they score? Is a player's search popularity related to their goals?
+
+all of the answers to the queries can be found in the [report section](https://github.com/SultanaTania/aol-search-analysis-2006/blob/main/Report/BI-WISE-2324-Part1.pdf)
